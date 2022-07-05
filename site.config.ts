@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'KashiwaByte's Blog',
+  name: 'KashiwaByte blog',
   domain: 'https://equal-trowel-ddc.notion.site/Blog-b9e9f47bea08482f8d61c2a865751678',
   author: 'KashiwaByte',
 
